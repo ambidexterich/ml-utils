@@ -1,6 +1,4 @@
 (* Author: Rich Hamburg *)
-(* CSC 345 *)
-(* Due Date: 11/18/2014 *)
 
 (*
 3.3.2 - flip
