@@ -1,6 +1,6 @@
 (* Author: Rich Hamburg *)
 
-use "homework-3.sml";
+use "utils.sml";
 (**** TESTS ****)
 (***
     Passing tests should return "PASS",
