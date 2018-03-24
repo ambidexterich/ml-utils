@@ -1,6 +1,4 @@
 (* Author: Rich Hamburg *)
-(* CSC 345 *)
-(* Due Date: 11/18/2014 *)
 
 use "homework-3.sml";
 (**** TESTS ****)
